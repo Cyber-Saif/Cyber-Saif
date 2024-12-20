@@ -1,38 +1,37 @@
-# 💫 About Me:
+# 💫🌟 About Me:
 👋 Hello, I'm Saif!<br><br>
-🔒 Passionate about Cybersecurity | 🌐 Networking Enthusiast | ☁️ Cloud Explorer<br><br>Welcome to my GitHub profile! I'm a student with a love for all things technology. <br><br>
-🌟 About Me<br><br>
+🔒 Passionate about Cybersecurity | 🌐 Networking Enthusiast | ☁️ Cloud Explorer<br><br>Welcome to my GitHub profile! I'm a student with a love for all things technology. <br>
 
 🧑‍💻 I’m currently sharpening my skills in Offensive Security and SOC operations<br>
 🔍 Exploring the intersection of Cybersecurity and Industrial Control Systems (ICS) to secure critical infrastructure.<br>
 📜 Sharing my knowledge through cybersaif.ca, where I document projects, and write guides.<br><br>
 
-🛠️ My Technical Arsenal<br><br>
+<h3>🛠️ My Technical Arsenal<br></h3>
 
-Networking & Security:<br>
+<h3>Networking & Security:</h3>
 🔧 TCP/IP, Routing & Switching, VLANs, Firewalls, IDS/IPS, DMZ, and VPNs.<br>
-🔒 Hands-on with Suricata, Splunk, and SOC operations.<br><br>
+🔒 Enhanced security monitoring with Suricata, Splunk, and SOC operations.<br><br>
 
-Cloud & Virtualization:<br>
+<h3>Cloud & Virtualization:</h3>
 ☁️ AWS (IAM, EC2), Microsoft Azure, GCP, and Docker Containers.<br>
 📡 Designing and securing cloud-based architectures.<br><br>
 
-Industrial Control Systems:<br>
+<h3>Industrial Control Systems:</h3>
 ⚙️ Proficient in MQTT (IIoT), EtherCAT, Modbus, OPC UA, PROFINET, and SCADA.<br>
 🦾 PLC Programming<br>
 🛡️ Focused on securing critical infrastructure systems.<br><br>
 
-Programming & Tools:<br>
+<h3>Programming & Tools:</h3>
 🐍 Python for cybersecurity tools and automation.<br>
 🔍 Developed Network Scanners, Password Generators, and more!<br>
 🛠️ Strong documentation skills with a knack for creating practical resources.<br><br>
 
-🚀 Projects:<br>
+<h3>🚀 Projects:</h3>
 📌 Custom Suricata IDS Implementation: Deployed Suricata with Splunk for security monitoring and anomaly detection.<br>
 📌 Converged IT/OT Network Design: Designed and secured a network bridging IT and OT environments.<br>
 📌 Documentation: Authored comprehensive guides, including a Penetration testing Report and Virtualization Best Practices.<br><br>
 
-🌱 What I'm Learning<br>
+<h3>🌱 What I'm Learning</h3>
 -Advanced Penetration Testing Techniques.<br>
 -Reverse Engineering.  
 -Securing cloud-native applications and environments.<br><br>
