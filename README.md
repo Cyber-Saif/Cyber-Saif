@@ -1,6 +1,6 @@
 # 💫🌟 About Me:
 👋 Hello, I'm Saif!<br><br>
-🔒 Passionate about Cybersecurity | 🌐 Networking Enthusiast | ☁️ Cloud Explorer
+🔒 Passionate about Cybersecurity | 🌐 Networking Enthusiast | ☁️ Cloud Explorer   
 Welcome to my GitHub profile! I'm a student with a love for all things technology. <br>
 
 🧑‍💻 I’m currently sharpening my skills in Offensive Security and SOC operations   
