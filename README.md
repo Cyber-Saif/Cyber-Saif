@@ -1,36 +1,52 @@
 # 💫🌟 About Me:
-👋 Hello, I'm Saif!<br><br>
-🔒 Passionate about Cybersecurity | 🌐 Networking Enthusiast | ☁️ Cloud Explorer   
-Welcome to my GitHub profile! I'm a student with a love for all things technology. <br>
 
-🧑‍💻 I’m currently sharpening my skills in Offensive Security and SOC operations   
-🔍 Exploring the intersection of Cybersecurity and Industrial Control Systems (ICS) to secure critical infrastructure.   
-📜 Sharing my knowledge through cybersaif.ca, where I document projects, and write guides.<br><br>
+##### 👋 Hello, I'm Saif      
 
-###🛠️ My Technical Arsenal   
+I am a self-motivated cybersecurity professional specializing in SOC analysis, threat hunting, and vulnerability assessment. I have a strong focus on securing critical infrastructure by exploring the intersection of cybersecurity and Industrial Control Systems (ICS).   
 
-### Networking & Security:
-🔧 TCP/IP, Routing & Switching, VLANs, Firewalls, IDS/IPS, DMZ, and VPNs.   
-🔒 Enhanced security monitoring with Suricata, Splunk, and SOC operations.<br><br>
+Leveraging my programming skills, I develop Python tools to support security operations and automate complex tasks. I am dedicated to continuous learning and am currently enhancing my proficiency in penetration testing and malware analysis.    
 
-### Cloud & Virtualization:
-☁️ AWS (IAM, EC2), Microsoft Azure, GCP, and Docker Containers.<br>
-📡 Designing and securing cloud-based architectures.<br><br>
+I enjoy creating educational content to share my knowledge with the community. I write blogs and project documentation to help others understand complex topics quickly and efficiently.   
+<!--🔒 Passionate about Cybersecurity | 🌐 Networking Enthusiast | ☁️ Cloud Explorer-->
 
-### Industrial Control Systems:
-⚙️ Proficient in MQTT (IIoT), EtherCAT, Modbus, OPC UA, PROFINET, and SCADA.   
-🦾 PLC Programming<br>
-🛡️ Focused on securing critical infrastructure systems.<br><br>
+### 📜 Skills   
 
-### Programming & Tools:
-🐍 Python for cybersecurity tools and automation.   
-🔍 Developed Network Scanners, Password Generators, and more!   
-🛠️ Strong documentation skills with a knack for creating practical resources.<br><br>
+#### 🌐Networking
+- TCP/IP, OSI model, VLANs, Routing & Switching, VPNs
+- Network Security: (Firewalls, IPS/IDS, DMZ, & ACLs)
+
+#### 🔒SOC & Threat Hunting
+- IDS/IPS (Suricata, OSSEC, Snort, Zeek/Bro)
+- SIEM tools (Splunk, Wazuh, Microsoft Sentinel)
+- Wireshark for network traffic analysis
+
+#### ☁️Cloud & Virtualization
+- AWS (IAM, EC2, CloudFormation), Microsoft Azure, Google Cloud Platform.
+- Containerization: Docker, Podman, LXC/LXD, KVM, Vagrant.
+- Virtualization: Hyper-V, VMware ESXi, Proxmox.     
+
+#### ⚙️Industrial Automation & Control Systems
+- ICS Cybersecurity Standards (NIST, IEC 62443).
+- Industrial Communication Protocols (MQTT, EtherCAT, Modbus, PROFINET, and DNP3.)
+- OPC UA, DCS, and SCADA.
+- PLC Programming (Ladder Logic).
+
+#### 🖥️ System Administration
+- Active Directory Domain Service
+- Windows Server service deployment (DNS, DHCP, iSCSI)
+- Windows & Linux Administration
+
+#### 🧑‍💻Programming & Tools
+- Python (Security Automation, Network Scanners, JSON handling).
+- Web Development: HTML/CSS, JavaScript, WordPress.
+- Version Control: GitHub, Git.   
+
 
 ### 🚀 Projects:
-📌 Custom Suricata IDS Implementation: Deployed Suricata with Splunk for security monitoring and anomaly detection.   
-📌 Converged IT/OT Network Design: Designed and secured a network bridging IT and OT environments.   
-📌 Documentation: Authored comprehensive guides, including a Penetration testing Report and Virtualization Best Practices.<br><br>
+📌 **Intrusion Detection System (IDS) Implementation:** Integrated Suricata IDS with Splunk to enhance security monitoring and anomaly detection.   
+📌 **Smart Home Automation:** Developed an IoT-based home automation system using Raspberry Pi.   
+📌 **Converged IT/OT Network Design:** Designed and secured a network bridging IT and OT environments to ensure seamless communication.   
+📌 **Technical Documentation:** Created detailed guides for PiHole, PiVPN, Apache Guacamole, Proxmox, VirtualBox, and more.      
 
 
 # 💻 Tech Stack:
