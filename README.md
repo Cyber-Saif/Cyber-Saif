@@ -7,3 +7,10 @@ I enjoy creating educational content to share my knowledge with the community. I
 **Blogs**: [cybersaif.ca/blogs](https://cybersaif.ca/blogs)
 
 **Projects**: [cybersaif.ca/projects](https://cybersaif.ca/projects)
+
+---
+### Tech Stack:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,flask,html,css,mysql,azure,aws,gcp,docker,kubernetes,nginx,git&perline=10&theme=dark" />
+</div>
+
