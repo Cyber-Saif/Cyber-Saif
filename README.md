@@ -11,6 +11,11 @@ I enjoy creating educational content to share my knowledge with the community. I
 ---
 ### Tech Stack:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,flask,html,css,mysql,azure,aws,gcp,docker,kubernetes,nginx,git&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,go,flask,html,css,bash&perline=10&theme=dark" />
 </div>
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes,terraform&perline=10&theme=dark" />
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,nginx,git,arduino&perline=10&theme=dark" />
+</div>
